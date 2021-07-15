@@ -1,0 +1,10 @@
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\bin\Debug\EBSOzelTasarim.exe.config
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\bin\Debug\EBSOzelTasarim.exe
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\bin\Debug\EBSOzelTasarim.pdb
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.csproj.AssemblyReference.cache
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.Form1.resources
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.Properties.Resources.resources
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.csproj.GenerateResource.cache
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.csproj.CoreCompileInputs.cache
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.exe
+C:\Users\EBS\source\repos\EBSOzelTasarim\EBSOzelTasarim\obj\Debug\EBSOzelTasarim.pdb
